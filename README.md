@@ -1,8 +1,8 @@
 # Brian Juul Andersen
 
-## Frontender with a few years experience
+## Fullstack web developer with 4+ years experience
 
-## Aiming at becoming a good fullstack developer
+## Aiming at becoming an even developer using:
 
 - C#/.Net
 - TypeScript/JavaScript
