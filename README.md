@@ -2,10 +2,10 @@
 
 ## Fullstack web developer with 4+ years experience
 
-## Aiming at becoming an even better developer using:
+## Aiming at becoming an even better fullstack developer using:
 
-- C#/.Net
-- TypeScript/JavaScript
+- C#/.Net / .Net Core
+- TypeScript / JavaScript
 - Angular(JS)
 - Umbraco CMS
 - NodeJS
