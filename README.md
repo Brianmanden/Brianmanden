@@ -4,7 +4,7 @@
 
 ## Aiming at becoming an even better fullstack developer using:
 
-- C#/.Net / .Net Core
+- C# / .Net / .Net Core
 - TypeScript / JavaScript
 - Angular(JS)
 - Umbraco CMS
