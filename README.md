@@ -10,4 +10,4 @@
 - Umbraco CMS
 - NodeJS
 
-Other technologies I have used to various degrees can be found here: [https://stackshare.io/BrianJuulAndersen/personalstack](https://stackshare.io/BrianJuulAndersen/personalstack)
+Other tools and technologies I have used to various degrees can be found here: [https://stackshare.io/BrianJuulAndersen/personalstack](https://stackshare.io/BrianJuulAndersen/personalstack)
