@@ -6,7 +6,7 @@
 
 - C# / .Net / .Net Core
 - TypeScript / JavaScript
-- Angular(JS)
+- Angular(JS) / Blazor
 - Umbraco CMS
 - NodeJS
 
