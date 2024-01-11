@@ -8,7 +8,7 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brianmanden" alt="brianmanden" /></a>
 </p>
 
-- 📫 How to reach me: **mail(at)kree8tive.dk**
+- 📫 How to reach me: **brianmanden(at)gmail.com**
 
 - 📄 Know about my experiences [https://kree8tive.dk/#CV](https://kree8tive.dk/#CV)
 
