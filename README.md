@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brian Juul Andersen</h1>
 <h2 align="center">Experienced fullstack webdeveloper.</h2>
-<h3 align="center"> I use mainly C#, .Net, .NET Core, TypeScript & JavaScript.</h3>
+<h3 align="center"> I use mainly C#, .Net, .NET Core, Java, TypeScript & JavaScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianmanden&label=Profile%20views&color=0e75b6&style=flat" alt="brianmanden" /> </p>
 
