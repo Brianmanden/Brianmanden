@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **brianmanden(at)gmail.com**
 
-- 📄 Know about my experiences [https://kree8tive.dk/#CV](https://kree8tive.dk/#CV)
+- 📄 My experiences [https://kree8tive.dk/#CV](https://kree8tive.dk/#CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
