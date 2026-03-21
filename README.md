@@ -1,18 +1,16 @@
-<h1 align="center">Hi 👋, I'm Brian Juul Andersen</h1>
-<h2 align="center">Experienced fullstack webdeveloper</h2>
-<h3 align="center"> I use mainly C#, .Net, .NET Core, Java, TypeScript & JavaScript</h3>
+# Hi 👋, I'm Brian Juul Andersen
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brianmanden&label=Profile%20views&color=0e75b6&style=flat" alt="brianmanden" /> </p>
+## Experienced fullstack webdeveloper
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brianmanden" alt="brianmanden" /></a>
-</p>
+### I use mainly C#, .Net, .NET Core, Java, TypeScript & JavaScript
+
+![brianmanden](https://komarev.com/ghpvc/?username=brianmanden&label=Profile%20views&color=0e75b6&style=flat")
 
 - 📫 How to reach me: **brianmanden(at)gmail.com**
-
 - 📄 My experiences [https://kree8tive.dk/#CV](https://kree8tive.dk/#CV)
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me
+
 <p align="left">
     <a href="https://linkedin.com/in/brianjuulandersen" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brianjuulandersen" height="30" width="40" />
@@ -25,7 +23,8 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools
+
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -122,11 +121,8 @@
     </a>
 </p>
 
+![brianmanden](https://github-readme-stats.vercel.app/api/top-langs?username=brianmanden&show_icons=true&locale=en&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianmanden&show_icons=true&locale=en&layout=compact" alt="brianmanden" /></p>
+![brianmanden](https://github-readme-stats.vercel.app/api?username=brianmanden&show_icons=true&locale=en)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brianmanden&show_icons=true&locale=en" alt="brianmanden" /></p>
-
-<!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianmanden&" alt="brianmanden" /></p>
--->
+![brianmanden](https://github-readme-streak-stats.herokuapp.com/?user=brianmanden)
