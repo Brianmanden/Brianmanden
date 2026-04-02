@@ -121,8 +121,4 @@
     </a>
 </p>
 
-![brianmanden](https://github-readme-stats.vercel.app/api/top-langs?username=brianmanden&show_icons=true&locale=en&layout=compact)
-
-![brianmanden](https://github-readme-stats.vercel.app/api?username=brianmanden&show_icons=true&locale=en)
-
 ![brianmanden](https://github-readme-streak-stats.herokuapp.com/?user=brianmanden)
