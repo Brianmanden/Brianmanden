@@ -1,13 +1,15 @@
 # Hi 👋, I'm Brian Juul Andersen
 
-## Experienced fullstack webdeveloper
+### Experienced fullstack web developer
 
-### I use mainly C#, .Net, .NET Core, Java, TypeScript & JavaScript
+Mainly working with **C#, .NET, .NET Core, Java, TypeScript & JavaScript**
 
-![brianmanden](https://komarev.com/ghpvc/?username=brianmanden&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=brianmanden&label=Profile%20views&color=0e75b6&style=flat)
 
-- 📫 How to reach me: **brianmanden(at)gmail.com**
-- 📄 My experiences [https://kree8tive.dk/#CV](https://kree8tive.dk/#CV)
+📫 **Email:** brianmanden(at)gmail.com  
+📄 **CV:** [kree8tive.dk/#CV](https://kree8tive.dk/#CV)
+
+---
 
 ### Connect with me
 
@@ -36,6 +38,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 ### Languages and Tools
 
@@ -177,7 +181,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="Vue.js" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" />
         <br>
         <sub><b>Vue.js</b></sub>
       </a>
@@ -329,8 +333,10 @@
   </tr>
 </table>
 
-![brianmanden](https://github-readme-stats.vercel.app/api/top-langs?username=brianmanden&show_icons=true&locale=en&layout=compact)
+---
 
-![brianmanden](https://github-readme-stats.vercel.app/api/username=brianmanden&show_icons=true&locale=en)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=brianmanden&show_icons=true&locale=en&layout=compact)
 
-![brianmanden](https://github-readme-streak-stats.herokuapp.com/?user=brianmanden)
+![Stats](https://github-readme-stats.vercel.app/api/username=brianmanden&show_icons=true&locale=en)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brianmanden)
