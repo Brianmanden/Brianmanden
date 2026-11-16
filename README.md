@@ -335,8 +335,8 @@ Mainly working with **C#, .NET, .NET Core, Java, TypeScript & JavaScript**
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=brianmanden&show_icons=true&locale=en&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=brianmanden&show_icons=true&locale=en&layout=compact)
 
-![Stats](https://github-readme-stats.vercel.app/api/username=brianmanden&show_icons=true&locale=en)
+![Stats](https://github-stats-extended.vercel.app/api?username=brianmanden&show_icons=true&locale=en)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brianmanden)
